@@ -1,0 +1,19 @@
+{
+  "name": "mystopia.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Mystopia/mystopia.github.io",
+  "authors": [
+    "Ryan Balfanz <ryan@ryanbalfanz.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper": "~0.9.22"
+  }
+}
